@@ -143,7 +143,7 @@
     "libp2p-secio": "^0.12.6",
     "libp2p-tcp": "^0.14.5",
     "libp2p-webrtc-star": "^0.18.0",
-    "libp2p-websockets": "^0.13.3",
+    "libp2p-websockets": "https://github.com/haadcode/js-libp2p-websockets.git",
     "mafmt": "^7.0.0",
     "merge-options": "^2.0.0",
     "mortice": "^2.0.0",
